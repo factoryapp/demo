@@ -1,0 +1,4 @@
+[submodule "factoryapp/demo3"]
+	path = factoryapp/demo3
+	url = git@github.com:factoryapp/demo3.git
+	branch = app-vex_woocommerce
